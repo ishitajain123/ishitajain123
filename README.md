@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Ishita Jain, currently a senior undergraduate at the Indian Institute of Technology (BHU) Varanasi. My major interests are Data Structures, Algorithms, Deep Learning, Image processing ,sports programming and web development.
+
 
 <!--
 **ishitajain123/ishitajain123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

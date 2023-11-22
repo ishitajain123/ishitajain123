@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Ishita Jain, currently a senior undergraduate at the Indian Institute of Technology (BHU) Varanasi. My major interests are Data Structures, Algorithms, Deep Learning, Image processing ,sports programming and web development.
+I am Ishita Jain, graduated from Indian Institute of Technology (BHU) Varanasi. My major interests are Data Structures, Algorithms, Deep Learning, Image processing ,sports programming and web development.
 
 ### You can reach me at-
 Email: ishitajain.ece18@itbhu.ac.in or LinkedIn: https://www.linkedin.com/in/ishita-jain-3769121b3/
